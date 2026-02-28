@@ -1,0 +1,50 @@
+[
+  {
+    "id": "f1",
+    "name": "HIGH PROTEIN LAMB MIX",
+    "brand": "GREYHOUND ELITE",
+    "price": 1850,
+    "stock": 45,
+    "rating": "4.9",
+    "image": "https://m.media-amazon.com/images/I/71E44YkAURL._AC_UF1000,1000_QL80_.jpg",
+    "description": "อาหารสูตรโปรตีนสูงจากเนื้อแกะแท้ บำรุงกล้ามเนื้อและขนให้เงางาม",
+    "isNew": true,
+    "isOut": false
+  },
+  {
+    "id": "f2",
+    "name": "SALMON & RICE SENSITIVE",
+    "brand": "NATURE'S BEST",
+    "price": 1650,
+    "stock": 0,
+    "rating": "4.8",
+    "image": "https://www.purina.com/sites/default/files/products/2024-10/pro_plan_sensitive_skin_stomach_salmon_rice_dry_dog_food_30lb.png",
+    "description": "สูตรปลาแซลมอนและข้าว สำหรับสุนัขแพ้ง่าย บำรุงผิวหนัง",
+    "isNew": false,
+    "isOut": true
+  },
+  {
+    "id": "f3",
+    "name": "ACTIVE CHICKEN FORMULA",
+    "brand": "PROACTIVE",
+    "price": 1450,
+    "stock": 50,
+    "rating": "4.7",
+    "image": "https://i5.walmartimages.com/seo/Iams-Proactive-Health-Chicken-And-Turkey-Dry-Dog-Food-6-Lb-Bag_f0440e1a-6a3a-4a53-befa-e2ff2552c1f4.b8a10942153047b7011884eff5505422.jpeg",
+    "description": "สูตรไก่สำหรับสุนัขพลังงานสูง ช่วยเสริมสร้างความแข็งแรง",
+    "isNew": false,
+    "isOut": false
+  },
+  {
+    "id": "f4",
+    "name": "PUPPY GROWTH STARTER",
+    "brand": "LITTLE PAWS",
+    "price": 1200,
+    "stock": 20,
+    "rating": "5.0",
+    "image": "https://m.media-amazon.com/images/I/71evAu7BM+L._SX522_PIbundle-2,TopRight,0,0_AA522SH20_.jpg",
+    "description": "อาหารลูกสุนัข เสริมสร้างกระดูกและสมอง",
+    "isNew": true,
+    "isOut": false
+  }
+]

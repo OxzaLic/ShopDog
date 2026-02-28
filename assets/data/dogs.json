@@ -1,0 +1,27 @@
+[
+  {
+    "id": "d1",
+    "name": "SILVER STREAK",
+    "price": 45000,
+    "age": "4 เดือน",
+    "gender": "M",
+    "color": "เทาเงิน (SILVER GREY)",
+    "character": "ร่าเริง, ฝึกง่าย, พลังงานสูง",
+    "image": "https://i.pinimg.com/originals/94/b9/13/94b9137868d7ed63374250f60098d1fe.jpg",
+    "isNew": true,
+    "isOut": false
+  },
+  {
+    "id": "d2",
+    "name": "VELVET MIDNIGHT",
+    "price": 52000,
+    "age": "2 ปี",
+    "gender": "F",
+    "color": "ดำคลับ (JET BLACK)",
+    "character": "สุขุม, เฝ้าบ้านดี",
+    "image": "https://media.istockphoto.com/id/1443762252/photo/thin-black-italian-greyhound-dog-with-a-thick-white-collar.jpg?s=612x612&w=0&k=20&c=6qILJsWNt-zCtOmbGXrmwj49tm9s9CPhk8IHW-i3etk=",
+    "isNew": false,
+    "isOut": true
+  }
+]
+

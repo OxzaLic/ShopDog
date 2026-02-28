@@ -1,0 +1,26 @@
+[
+    {
+        "id": "n1",
+        "title": "เปิดตัวลูกสุนัขครอกใหม่สไตล์อิตาลี",
+        "detail": "พบกับลูกสุนัขเกรฮาวด์สายเลือดแชมป์ครอกล่าสุด แข็งแรงและพร้อมย้ายบ้านเดือนหน้า สนใจเข้าชมฟาร์มติดต่อสอบถามได้ทันที",
+        "time": "2 ชม. ที่แล้ว",
+        "tag": "NEW ARRIVAL",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlv2_II1c5oOpHN-D5TE2XeIWS0tUg6v6lpw&s"
+    },
+    {
+        "id": "n2",
+        "title": "โปรโมชั่นอาหารสูตรนักกีฬา ลด 15%",
+        "detail": "รับแต้มสะสม x2 เมื่อซื้อ Athlete Mix ตลอดสัปดาห์นี้ พร้อมรับคำแนะนำการดูแลโภชนาการจากผู้เชี่ยวชาญฟรี",
+        "time": "เมื่อวานนี้",
+        "tag": "PROMOTION",
+        "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?q=80&w=2071&auto=format&fit=crop"
+    },
+    {
+        "id": "n3",
+        "title": "Greyhound Farm Meetup 2026",
+        "detail": "เชิญร่วมกิจกรรมพบปะสังสรรค์คนรักเกรฮาวด์ ณ ฟาร์มของเรา พร้อมเวิร์กช็อปการดูแลน้องหมาเบื้องต้นในวันอาทิตย์หน้า!",
+        "time": "1 ชม. ที่แล้ว",
+        "tag": "EVENT",
+        "image": "https://images.unsplash.com/photo-1601758124510-52d02ddb7cbd?q=80&w=2070&auto=format&fit=crop"
+    }
+]
